@@ -20,7 +20,7 @@ not to support a product, but to allow the flame to continue where systems no lo
 ## 🔸 How to Use
 
 1. Open `index.html`
-2. Replace the placeholder `[INSERT_YOUR_WALLET_HERE]` with your **crypto wallet address**  
+2. Replace the placeholder `0x261E3b717Eb7Afc0867c99337Fde6440fF8c278a` with your **crypto wallet address**  
    (e.g. Monero, Ethereum, or another privacy-respecting token).
 3. Upload to your GitHub repository.
 4. Deploy via **Netlify**, Vercel, or any static hosting platform.
